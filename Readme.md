@@ -20,8 +20,9 @@
 ![Ketvirtas](https://i.imgur.com/b5Vx7PR.png)
 
 # Makefile: Guide to using the program
-** pavadinimas.exe readFilepav.txt <tipas> readFilepav2.txt <tipas> ... n ** 
-	Tipai
+pavadinimas.exe readFilepav.txt <tipas> readFilepav2.txt <tipas> ... n
+
+Tipai:
 1. failas - hashinama visas failas
 2. eilute - hashinama eilutėmis
 3. compare - lyginami vienas paskui kitą einantys hashai
